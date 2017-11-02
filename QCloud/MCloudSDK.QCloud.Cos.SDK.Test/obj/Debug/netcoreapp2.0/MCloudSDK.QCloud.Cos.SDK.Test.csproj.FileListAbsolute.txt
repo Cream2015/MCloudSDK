@@ -1,0 +1,13 @@
+D:\OneDrive - Microsoft\Project\MCloudSDK\QCloud\MCloudSDK.QCloud.Cos.SDK.Test\bin\Debug\netcoreapp2.0\MCloudSDK.QCloud.Cos.SDK.Test.deps.json
+D:\OneDrive - Microsoft\Project\MCloudSDK\QCloud\MCloudSDK.QCloud.Cos.SDK.Test\bin\Debug\netcoreapp2.0\MCloudSDK.QCloud.Cos.SDK.Test.runtimeconfig.json
+D:\OneDrive - Microsoft\Project\MCloudSDK\QCloud\MCloudSDK.QCloud.Cos.SDK.Test\bin\Debug\netcoreapp2.0\MCloudSDK.QCloud.Cos.SDK.Test.runtimeconfig.dev.json
+D:\OneDrive - Microsoft\Project\MCloudSDK\QCloud\MCloudSDK.QCloud.Cos.SDK.Test\bin\Debug\netcoreapp2.0\MCloudSDK.QCloud.Cos.SDK.Test.dll
+D:\OneDrive - Microsoft\Project\MCloudSDK\QCloud\MCloudSDK.QCloud.Cos.SDK.Test\bin\Debug\netcoreapp2.0\MCloudSDK.QCloud.Cos.SDK.Test.pdb
+D:\OneDrive - Microsoft\Project\MCloudSDK\QCloud\MCloudSDK.QCloud.Cos.SDK.Test\bin\Debug\netcoreapp2.0\MCloudSDK.QCloud.Cos.SDK.dll
+D:\OneDrive - Microsoft\Project\MCloudSDK\QCloud\MCloudSDK.QCloud.Cos.SDK.Test\bin\Debug\netcoreapp2.0\MCloudSDK.QCloud.Cos.SDK.pdb
+D:\OneDrive - Microsoft\Project\MCloudSDK\QCloud\MCloudSDK.QCloud.Cos.SDK.Test\obj\Debug\netcoreapp2.0\MCloudSDK.QCloud.Cos.SDK.Test.csprojResolveAssemblyReference.cache
+D:\OneDrive - Microsoft\Project\MCloudSDK\QCloud\MCloudSDK.QCloud.Cos.SDK.Test\obj\Debug\netcoreapp2.0\MCloudSDK.QCloud.Cos.SDK.Test.csproj.CoreCompileInputs.cache
+D:\OneDrive - Microsoft\Project\MCloudSDK\QCloud\MCloudSDK.QCloud.Cos.SDK.Test\obj\Debug\netcoreapp2.0\MCloudSDK.QCloud.Cos.SDK.Test.AssemblyInfoInputs.cache
+D:\OneDrive - Microsoft\Project\MCloudSDK\QCloud\MCloudSDK.QCloud.Cos.SDK.Test\obj\Debug\netcoreapp2.0\MCloudSDK.QCloud.Cos.SDK.Test.AssemblyInfo.cs
+D:\OneDrive - Microsoft\Project\MCloudSDK\QCloud\MCloudSDK.QCloud.Cos.SDK.Test\obj\Debug\netcoreapp2.0\MCloudSDK.QCloud.Cos.SDK.Test.dll
+D:\OneDrive - Microsoft\Project\MCloudSDK\QCloud\MCloudSDK.QCloud.Cos.SDK.Test\obj\Debug\netcoreapp2.0\MCloudSDK.QCloud.Cos.SDK.Test.pdb
