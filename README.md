@@ -1,6 +1,6 @@
 # MCloudSDK
 
-- Develop for DotNetCore
+- DotNetCore
 
 ## QCloud
 
